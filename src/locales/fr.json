@@ -1,0 +1,58 @@
+{
+  "login": {
+    "title": "Bienvenue à {appTitle}",
+    "text": "Connectez-vous pour commencer à explorer vos documents",
+    "email": "email",
+    "password": "Mot de passe",
+    "resetPassword": "Reset Password",
+    "rememberme": "Se souvenir de moi",
+    "submit": "connexion",
+    "passwordForgotten": "Mot de passe oublié?"
+  },
+  "chat": {
+    "your_question": "Votre Question",
+    "completion": "Géneration de texte",
+    "selectDocs": "Sélectionnez des documents",
+    "noAnwer":"Désolé, pas de réponse"
+  },
+  "selection": {
+    "all": "tous",
+    "none": "aucun"
+  },
+  "document": {
+    "none": "Pas de document sélectionné"
+  },
+  "actions": {
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "close": "Fermer",
+    "save": "Sauver",
+    "edit": "Editer",
+    "delete": "Supprimer",
+    "submit": "Envoyer"
+  },
+  "settings":{
+    "title":"Paramètres",
+    "prompt":"prompt"
+  },
+  "themeColor": "Theme Color",
+  "language": "Language",
+  "logout": "Logout",
+  "email": "Email",
+  "joinDate": "Joining Date",
+  "listOf": "{0} List",
+  "userLogin": "@:user @:login",
+  "pleaseEnter": "Svp saisissez {0}",
+  "lengthOf": "Nombre de caractères de {0}",
+  "form": {
+    "LTE": "{input} doit être inférieur à {limit}",
+    "LT": "{input} must be less than {limit}",
+    "GTE": "{input} doit être supérieur à  {limit}",
+    "GT": "{input} must be greater than {limit}"
+  },
+  "darkMode": "Dark Mode",
+  "drawerBackground": "Drawer Background",
+  "image": "Image",
+  "interfaceSettings": "Interface Settings",
+  "notification": "Notifications"
+}

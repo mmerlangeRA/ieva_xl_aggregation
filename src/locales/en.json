@@ -1,0 +1,58 @@
+{
+  "login": {
+    "title": "Welcome to {appTitle}",
+    "text": "Please sign-in to your account and start exploring your documents",
+    "email": "email",
+    "password": "Password?",
+    "resetPassword": "Reset Password",
+    "rememberme": "Remember me",
+    "submit": "login",
+    "passwordForgotten": "Forgot Password?"
+  },
+  "chat": {
+    "your_question": "your question",
+    "completion": "Text generation",
+    "selectDocs": "Select documents",
+    "noAnwer": "Sorry, no answer"
+  },
+  "selection": {
+    "all": "all",
+    "none": "none"
+  },
+  "document": {
+    "none": "no document selected yet"
+  },
+  "actions": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "submit": "Submit"
+  },
+  "settings": {
+    "title": "Settings",
+    "prompt": "prompt"
+  },
+  "themeColor": "Theme Color",
+  "language": "Language",
+  "logout": "Logout",
+  "email": "Email",
+  "joinDate": "Joining Date",
+  "listOf": "{0} List",
+  "userLogin": "@:user @:login",
+  "pleaseEnter": "Please enter {0}",
+  "lengthOf": "{0} length",
+  "form": {
+    "LTE": "{input} must be less than or equal to {limit}",
+    "LT": "{input} must be less than {limit}",
+    "GTE": "{input} must be greater than or equal to {limit}",
+    "GT": "{input} must be greater than {limit}"
+  },
+  "darkMode": "Dark Mode",
+  "drawerBackground": "Drawer Background",
+  "image": "Image",
+  "interfaceSettings": "Interface Settings",
+  "notification": "Notifications"
+}
